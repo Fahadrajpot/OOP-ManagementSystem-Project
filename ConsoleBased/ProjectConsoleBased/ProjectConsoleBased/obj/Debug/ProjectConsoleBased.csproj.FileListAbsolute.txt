@@ -1,0 +1,9 @@
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\bin\Debug\ProjectConsoleBased.exe.config
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\bin\Debug\ProjectConsoleBased.exe
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\bin\Debug\ProjectConsoleBased.pdb
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\bin\Debug\Foodies Cuisine.pdb
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\obj\Debug\ProjectConsoleBased.csproj.AssemblyReference.cache
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\obj\Debug\ProjectConsoleBased.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\obj\Debug\ProjectConsoleBased.csproj.CopyComplete
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\obj\Debug\ProjectConsoleBased.exe
+D:\Semester 2\OOP Project\ConsoleBased\ProjectConsoleBased\ProjectConsoleBased\obj\Debug\ProjectConsoleBased.pdb
